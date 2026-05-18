@@ -1,0 +1,32 @@
+{
+  "age": "30",
+  "gender": "Male",
+  "height_cm": "172",
+  "weight_kg": "76",
+  "goal": "Lose weight",
+  "goal_weight_kg": "70",
+  "timeframe": "3 months",
+  "fitness_level": "Some experience",
+  "activity_level": "Lightly active",
+  "workout_days": "3\u20134 days",
+  "workout_duration": "30\u201345 min",
+  "equipment": "Bands / dumbbells",
+  "preferred_workouts": "Strength, Cardio",
+  "diet_type": "No preference",
+  "meals_per_day": "3",
+  "allergies": "N/A",
+  "water_intake": "2\u20133L",
+  "sleep_hours": "5\u20136h",
+  "stress_level": "Moderate",
+  "medical_notes": "N/A",
+  "bmi": "25.7",
+  "bmi_label": "Overweight",
+  "onboarded": true,
+  "plans": {
+    "workout": {
+      "content": "Arpitp, your current training plan is a full-body strength and cardio workout designed to fit within your 30-45 minute duration, using bands and dumbbells, with a focus on weight loss.\n\nHere's a breakdown of your plan:\n\n**Overall Structure:**\n*   **Warm-up (5 minutes):** This prepares your body with light cardio and dynamic stretches to increase heart rate and improve mobility.\n*   **Main Workout (30-35 minutes):** This is the core of your session, combining strength exercises for various muscle groups with a cardio interval.\n*   **Cool-down (5 minutes):** This section focuses on static stretches to improve flexibility and aid in recovery.\n\n**Main Workout Details:**\nThe plan includes 7 exercises, targeting different areas of your body, with specific sets, reps, rest times, and coaching tips:\n\n1.  **Dumbbell Goblet Squats:** A lower body exercise focusing on legs and glutes.\n2.  **Dumbbell Renegade Rows (without push-up):** A back and core exercise.\n3.  **Dumbbell Chest Press (on floor):** A chest exercise using dumbbells.\n4.  **Dumbbell Reverse Lunges:** Another lower body exercise, focusing on one leg at a time.\n5.  **Resistance Band Pull-Aparts:** An upper body exercise, primarily for the shoulders and upper back.\n6.  **Plank with Hip Dips:** A core strengthening exercise with an added oblique challenge.\n7.  **Cardio Interval: Burpees (modified if needed) / Mountain Climbers:** A high-intensity burst to improve cardiovascular fitness and calorie burn.\n\nEach exercise includes a **Coaching Tip** to help you maintain proper form and maximize effectiveness.\n\nRemember to listen to your body and adjust the intensity as needed. This plan was tailored to your fitness level of \"Some experience\" and your goal of \"Lose weight.\"",
+      "created_at": "2026-05-17T17:46:17.253825",
+      "date": "2026-05-17"
+    }
+  }
+}
